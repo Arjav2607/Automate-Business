@@ -1,0 +1,6 @@
+{
+  "name": "Arjav AI Multi-Agent Sales & Human-in-the-Loop Hub",
+  "description": "Autonomous multi-agent sales, voice AI, n8n webhook orchestration, and human-in-the-loop approval system with real-time agent simulations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
